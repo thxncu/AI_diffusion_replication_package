@@ -1,0 +1,2 @@
+core_rows,q1_matched_rows,q1_unmatched_rows,h2_value_max_abs_difference_between_original_and_q1_file,q1_mean_broad_diffusion_pct,q1_median_broad_diffusion_pct,q1_mean_change_from_h2_pct_points,access_baseline_r2_q1
+138,138,0,0.0,19.65434782608696,15.5,1.7159420289855074,0.5946025629620667

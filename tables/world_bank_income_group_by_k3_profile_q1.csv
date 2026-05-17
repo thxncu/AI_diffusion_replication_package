@@ -1,0 +1,9 @@
+wb_income_group,k3_label,n,mean_q1_broad,mean_gap
+High income,High-capacity integrated profile,28,37.753571428571426,6.334090810915613
+High income,Intermediate readiness-access profile,16,24.9,-3.9096329673514987
+Low income,Capacity-constrained low-observability profile,18,9.511111111111111,4.37271204640031
+Low income,Intermediate readiness-access profile,1,7.2,-1.5040977790566314
+Lower middle income,Capacity-constrained low-observability profile,27,10.71111111111111,-1.49278910516937
+Lower middle income,Intermediate readiness-access profile,11,15.918181818181818,0.03677937364578942
+Upper middle income,Capacity-constrained low-observability profile,7,14.714285714285714,-4.173432131635724
+Upper middle income,Intermediate readiness-access profile,28,17.614285714285714,-3.980710518278507

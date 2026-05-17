@@ -1,0 +1,155 @@
+variable,dtype,non_missing_n,missing_n,description
+iso3,object,138,0,ISO 3166-1 alpha-3 country/economy code.
+country_name,object,138,0,Country or economy name.
+country_name_microsoft,object,138,0,See source documentation and harmonized dataset construction code.
+ms_ai_diffusion_h1_2025_pct,float64,138,0,See source documentation and harmonized dataset construction code.
+ms_ai_diffusion_h2_2025_pct,float64,138,0,Microsoft H2 2025 broad AI diffusion percentage.
+ms_ai_diffusion_change_pct_points,float64,138,0,See source documentation and harmonized dataset construction code.
+country_name_imf,object,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_index_2023,float64,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_digital_infrastructure_2023,float64,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_human_capital_labor_2023,float64,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_innovation_economic_integration_2023,float64,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_regulation_ethics_2023,float64,138,0,See source documentation and harmonized dataset construction code.
+country_name_wgi,object,138,0,See source documentation and harmonized dataset construction code.
+wgi_control_corruption_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_government_effectiveness_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_political_stability_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_rule_of_law_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_regulatory_quality_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_voice_accountability_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_control_corruption_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_government_effectiveness_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_political_stability_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_rule_of_law_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_regulatory_quality_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_voice_accountability_year,float64,138,0,See source documentation and harmonized dataset construction code.
+country_name_wdi,object,138,0,See source documentation and harmonized dataset construction code.
+wdi_population_total_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_population_total_latest_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_gdp_per_capita_ppp_current_intl_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_gdp_per_capita_ppp_current_intl_latest_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_individuals_using_internet_pct_latest,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_individuals_using_internet_pct_latest_year,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_tertiary_enrollment_gross_pct_latest,float64,137,1,See source documentation and harmonized dataset construction code.
+wdi_tertiary_enrollment_gross_pct_latest_year,float64,137,1,See source documentation and harmonized dataset construction code.
+wdi_rd_expenditure_pct_gdp_latest,float64,122,16,See source documentation and harmonized dataset construction code.
+wdi_rd_expenditure_pct_gdp_year,float64,122,16,See source documentation and harmonized dataset construction code.
+country_name_oecd,object,62,76,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_total,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_since_2020,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_since_2022,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_since_2024,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_with_missing_year,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_initiatives_genai_mentioned,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_instrument_rows_total,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_rows_guidance_regulation,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_rows_governance,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_rows_financial_support,float64,138,0,See source documentation and harmonized dataset construction code.
+oecd_ai_policy_rows_enabler_incentive,float64,138,0,See source documentation and harmonized dataset construction code.
+country_name_anthropic_2025,object,124,14,See source documentation and harmonized dataset construction code.
+anthropic_gdp_per_working_age_capita_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_count_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_pct_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_per_capita_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_per_capita_index_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_usage_tier_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_working_age_pop_2025_aug,float64,124,14,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_count_2026_feb,float64,123,15,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_pct_2026_feb,float64,123,15,See source documentation and harmonized dataset construction code.
+country_name_anthropic_2026,object,123,15,See source documentation and harmonized dataset construction code.
+is_eu27,int64,138,0,See source documentation and harmonized dataset construction code.
+governance_regime_cfp,object,138,0,See source documentation and harmonized dataset construction code.
+has_oecd_ai_policy_data,int64,138,0,See source documentation and harmonized dataset construction code.
+log_gdp_per_capita_ppp,float64,138,0,See source documentation and harmonized dataset construction code.
+log_population,float64,138,0,See source documentation and harmonized dataset construction code.
+log_oecd_policy_initiatives_plus1,float64,138,0,See source documentation and harmonized dataset construction code.
+analysis_ready_core_cross_section,int64,138,0,See source documentation and harmonized dataset construction code.
+analysis_ready_with_oecd_policy,int64,138,0,See source documentation and harmonized dataset construction code.
+analysis_ready_anthropic_robustness_2025,int64,138,0,See source documentation and harmonized dataset construction code.
+analysis_ready_anthropic_robustness_2026,int64,138,0,See source documentation and harmonized dataset construction code.
+log_gdp_per_capita_ppp_z,float64,138,0,See source documentation and harmonized dataset construction code.
+wdi_individuals_using_internet_pct_latest_z,float64,138,0,See source documentation and harmonized dataset construction code.
+log_population_z,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_government_effectiveness_latest_z,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_regulatory_quality_latest_z,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_rule_of_law_latest_z,float64,138,0,See source documentation and harmonized dataset construction code.
+imf_aipi_index_2023_z,float64,138,0,Standardized International Monetary Fund Artificial Intelligence Preparedness Index.
+log_oecd_policy_initiatives_plus1_z,float64,138,0,See source documentation and harmonized dataset construction code.
+anthropic_claude_usage_per_capita_index_2025_aug_z,float64,124,14,See source documentation and harmonized dataset construction code.
+institutional_capacity_z,float64,138,0,Standardized institutional-capacity composite based on Worldwide Governance Indicators.
+ai_diffusion_fraction,float64,138,0,See source documentation and harmonized dataset construction code.
+logit_ai_diffusion,float64,138,0,See source documentation and harmonized dataset construction code.
+log_anthropic_per_capita_index,float64,124,14,"Log-transformed Anthropic Claude per-capita usage index, interpreted as Claude-visible platform use."
+policy_intensity_z,float64,138,0,Standardized documented AI-policy attention indicator based on OECD.AI records.
+digital_infra_z,float64,138,0,See source documentation and harmonized dataset construction code.
+reg_ethics_z,float64,138,0,Standardized regulatory and ethics readiness indicator.
+human_capital_z,float64,138,0,See source documentation and harmonized dataset construction code.
+innovation_integration_z,float64,138,0,See source documentation and harmonized dataset construction code.
+governance_instrument_ratio,float64,62,76,See source documentation and harmonized dataset construction code.
+guidance_regulation_ratio,float64,62,76,See source documentation and harmonized dataset construction code.
+financial_support_ratio,float64,62,76,See source documentation and harmonized dataset construction code.
+expected_diffusion_basic_access_pct,float64,138,0,See source documentation and harmonized dataset construction code.
+ai_capability_conversion_gap_pct,float64,138,0,See source documentation and harmonized dataset construction code.
+ai_capability_conversion_gap_z,float64,138,0,See source documentation and harmonized dataset construction code.
+access_assets_z,float64,138,0,Standardized access-assets composite.
+fs_IC,float64,138,0,See source documentation and harmonized dataset construction code.
+fs_RD,float64,138,0,See source documentation and harmonized dataset construction code.
+fs_AC,float64,138,0,See source documentation and harmonized dataset construction code.
+fs_RG,float64,138,0,See source documentation and harmonized dataset construction code.
+fs_Y,float64,138,0,See source documentation and harmonized dataset construction code.
+broad_mass_diffusion_z,float64,138,0,See source documentation and harmonized dataset construction code.
+specialist_platform_diffusion_z,float64,124,14,See source documentation and harmonized dataset construction code.
+broad_specialist_divergence_z,float64,124,14,See source documentation and harmonized dataset construction code.
+institutional_capacity_three_wgi_z,float64,138,0,See source documentation and harmonized dataset construction code.
+wgi_control_corruption_latest_z_local,float64,138,0,See source documentation and harmonized dataset construction code.
+institutional_capacity_four_wgi_z,float64,138,0,See source documentation and harmonized dataset construction code.
+capacity_bundle_pc1_z,float64,138,0,Standardized principal-component score for the overall capacity-readiness bundle.
+capacity_bundle_pc2_z,float64,138,0,Standardized principal-component score for the access-capacity imbalance axis.
+ic_residualized_on_aipi_z,float64,138,0,See source documentation and harmonized dataset construction code.
+aipi_residualized_on_ic_z,float64,138,0,See source documentation and harmonized dataset construction code.
+conversion_position,int64,138,0,See source documentation and harmonized dataset construction code.
+conversion_position_label,object,138,0,See source documentation and harmonized dataset construction code.
+anthropic_available,int64,138,0,See source documentation and harmonized dataset construction code.
+raw4,int64,138,0,See source documentation and harmonized dataset construction code.
+k4_configuration,int64,138,0,See source documentation and harmonized dataset construction code.
+country_name_bti,object,114,24,See source documentation and harmonized dataset construction code.
+bti_governance_index,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_steering_capability,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_resource_efficiency,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_rule_of_law,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_stateness,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_implementation,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_policy_coordination,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_anticorruption_policy,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_governance_index_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_steering_capability_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_resource_efficiency_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_rule_of_law_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_stateness_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_implementation_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_policy_coordination_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_anticorruption_policy_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_capacity_index_z,float64,114,24,See source documentation and harmonized dataset construction code.
+bti_governance_performance_z,float64,114,24,See source documentation and harmonized dataset construction code.
+Economy,object,138,0,See source documentation and harmonized dataset construction code.
+ms_ai_diffusion_h1_2025_pct_from_q1_file,float64,138,0,See source documentation and harmonized dataset construction code.
+ms_ai_diffusion_h2_2025_pct_from_q1_file,float64,138,0,See source documentation and harmonized dataset construction code.
+ms_ai_diffusion_q1_2026_pct,float64,138,0,Microsoft Q1 2026 broad AI diffusion percentage.
+q1_match_status,object,138,0,See source documentation and harmonized dataset construction code.
+q1_diffusion_change_from_h2_pct_points,float64,138,0,"Q1 2026 broad diffusion minus H2 2025 broad diffusion, in percentage points."
+q1_diffusion_change_from_h1_pct_points,float64,138,0,See source documentation and harmonized dataset construction code.
+ai_diffusion_fraction_q1_2026,float64,138,0,See source documentation and harmonized dataset construction code.
+logit_ai_diffusion_q1_2026,float64,138,0,See source documentation and harmonized dataset construction code.
+broad_mass_diffusion_q1_2026_z,float64,138,0,See source documentation and harmonized dataset construction code.
+claude_visible_platform_use_z,float64,124,14,See source documentation and harmonized dataset construction code.
+broad_claude_visible_divergence_q1_z,float64,124,14,See source documentation and harmonized dataset construction code.
+expected_diffusion_basic_access_q1_2026_pct,float64,138,0,See source documentation and harmonized dataset construction code.
+ai_capability_conversion_gap_q1_2026_pct,float64,138,0,"Access-adjusted broad-diffusion residual for Q1 2026, in percentage points."
+ai_capability_conversion_gap_q1_2026_z,float64,138,0,See source documentation and harmonized dataset construction code.
+capacity_bundle_pc3_z,float64,138,0,See source documentation and harmonized dataset construction code.
+capacity_bundle_pc4_z,float64,138,0,See source documentation and harmonized dataset construction code.
+k2_cluster,float64,138,0,Two-profile k-means assignment.
+k2_label,object,138,0,Human-readable label for the two-profile solution.
+k3_cluster,float64,138,0,Three-profile k-means assignment.
+k3_label,object,138,0,Human-readable label for the three-profile solution.

@@ -1,0 +1,148 @@
+Economy,ms_ai_diffusion_h1_2025_pct_from_q1_file,ms_ai_diffusion_h2_2025_pct_from_q1_file,ms_ai_diffusion_q1_2026_pct
+United Arab Emirates,59.4,64.0,70.1
+Singapore,58.6,60.9,63.4
+Norway,45.3,46.4,48.6
+Ireland,41.7,44.6,48.4
+France,40.9,44.0,47.8
+Spain,39.7,41.8,44.2
+New Zealand,37.6,40.5,43.0
+United Kingdom,36.4,38.9,42.2
+Netherlands,36.3,38.9,42.1
+Qatar,35.7,38.3,41.8
+Australia,34.5,36.9,39.5
+Israel,33.9,36.1,38.1
+Belgium,33.5,36.0,39.0
+Canada,33.5,35.0,37.3
+Switzerland,32.4,34.8,37.8
+Sweden,31.2,33.3,36.1
+Austria,29.1,31.4,34.1
+South Korea,25.9,30.7,37.1
+Hungary,27.9,29.8,32.2
+Denmark,26.6,28.7,31.2
+Germany,26.5,28.6,31.1
+Poland,26.4,28.5,31.0
+Taiwan,26.4,28.4,31.8
+United States,26.3,28.3,31.3
+Italy,25.8,27.8,30.2
+Czechia,26.0,27.8,30.1
+Bulgaria,25.4,27.3,29.7
+Finland,25.6,27.3,29.5
+Jordan,25.4,27.0,29.7
+Slovenia,24.6,26.5,29.0
+Costa Rica,25.1,26.5,28.5
+Saudi Arabia,23.7,26.2,29.4
+Lebanon,24.8,25.7,27.3
+Oman,22.6,24.2,26.5
+Portugal,22.4,24.2,26.4
+Slovakia,22.1,23.8,26.1
+Croatia,21.8,23.7,26.1
+Vietnam,21.2,23.5,26.5
+Dominican Republic,22.0,22.7,24.8
+Uruguay,20.9,22.5,24.6
+Lithuania,21.0,22.4,24.3
+Jamaica,22.2,22.1,24.0
+Colombia,20.4,22.0,24.5
+Serbia,19.7,21.5,24.1
+Panama,20.3,21.5,23.3
+South Africa,19.3,21.1,23.1
+Chile,19.6,20.8,22.7
+Malaysia,18.3,19.7,21.8
+Argentina,17.8,19.6,21.9
+Bosnia And Herzegovina,18.2,19.5,22.1
+Japan,16.7,19.1,22.5
+Kuwait,17.7,19.1,21.1
+Greece,17.7,19.1,20.8
+Philippines,17.1,18.3,20.1
+Georgia,17.3,18.2,20.5
+Mexico,16.7,17.8,20.1
+Ecuador,17.0,17.7,19.5
+Brazil,15.6,17.1,19.1
+Moldova,16.6,17.0,18.5
+Albania,15.8,16.5,18.5
+China,15.4,16.3,16.4
+El Salvador,14.6,16.2,18.3
+Romania,15.3,16.2,17.5
+India,14.2,15.7,17.6
+Azerbaijan,14.2,15.5,17.7
+Guatemala,13.7,14.8,16.4
+Peru,13.4,14.7,16.4
+Türkiye,13.4,14.6,17.4
+Mongolia,12.6,14.3,16.7
+Namibia,13.0,13.8,15.1
+Kazakhstan,12.7,13.7,15.9
+Libya,12.7,13.7,15.0
+Botswana,12.8,13.7,14.8
+Gabon,12.3,13.4,15.0
+Egypt,12.5,13.4,14.8
+Honduras,12.4,13.1,14.0
+Nepal,12.3,13.0,14.2
+Senegal,12.4,12.9,13.9
+Indonesia,11.7,12.7,14.1
+Tunisia,12.3,12.7,13.5
+Zambia,11.7,12.3,13.1
+Algeria,11.3,12.0,13.2
+Cote D'Ivoire,10.8,11.7,13.1
+Bolivia,10.9,11.6,12.7
+Iraq,10.3,11.2,12.5
+Paraguay,10.1,11.0,12.2
+Morocco,10.5,10.9,11.7
+Gambia,10.6,10.9,11.4
+Iran,9.6,10.7,12.6
+Thailand,9.1,10.7,12.4
+Nicaragua,10.0,10.7,11.8
+Pakistan,9.7,10.3,11.4
+Angola,8.9,9.7,10.9
+Madagascar,8.9,9.7,10.9
+Malawi,8.9,9.7,10.9
+Mozambique,8.9,9.7,10.9
+Benin,8.7,9.3,10.1
+Burkina Faso,8.7,9.3,10.1
+Ghana,8.7,9.3,10.1
+Guinea,8.7,9.3,10.1
+Guinea-Bissau,8.7,9.3,10.1
+Liberia,8.7,9.3,10.1
+Mali,8.7,9.3,10.1
+Mauritania,8.7,9.3,10.1
+Niger,8.7,9.3,10.1
+Nigeria,8.7,9.3,10.1
+Sierra Leone,8.7,9.3,10.1
+Togo,8.7,9.3,10.1
+Myanmar,8.4,9.1,10.0
+Lesotho,8.8,9.1,9.8
+French Guiana,8.3,9.0,10.3
+Guyana,8.3,9.0,10.3
+Suriname,8.3,9.0,10.3
+Venezuela,8.3,9.0,10.3
+Ukraine,9.1,9.0,9.4
+Belarus,7.6,8.4,9.6
+Kyrgyzstan,7.6,8.2,9.5
+Kenya,7.8,8.1,8.7
+Russia,7.6,8.0,9.5
+Cameroon,7.0,7.8,8.7
+Central African Republic,7.0,7.8,8.7
+Chad,7.0,7.8,8.7
+Congo,7.0,7.8,8.7
+Congo (DRC),7.0,7.8,8.7
+Haiti,7.1,7.6,8.5
+Zimbabwe,6.9,7.6,8.5
+Papua New Guinea,7.2,7.3,7.7
+Bangladesh,6.5,7.1,7.8
+Syria,6.7,7.1,7.5
+Burundi,6.4,6.8,7.6
+Eritrea,6.4,6.8,7.6
+Ethiopia,6.4,6.8,7.6
+Somalia,6.4,6.8,7.6
+South Sudan,6.4,6.8,7.6
+Sudan,6.4,6.8,7.6
+Tanzania,6.4,6.8,7.6
+Uganda,6.4,6.8,7.6
+Laos,6.0,6.7,7.8
+Armenia,6.2,6.6,7.4
+Sri Lanka,6.2,6.6,7.3
+Uzbekistan,5.7,6.3,7.2
+Rwanda,6.0,6.3,7.2
+Cuba,5.7,6.1,6.7
+Afghanistan,5.1,5.6,6.1
+Tajikistan,5.1,5.6,6.1
+Turkmenistan,5.1,5.6,6.1
+Cambodia,4.6,5.1,5.7

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 thxncu
+Copyright (c) 2026 The Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Data note: this license applies to the code and package documentation. Public
+source datasets and their derivatives remain subject to the terms and licenses
+of the original data providers listed in DATA_SOURCES.md.

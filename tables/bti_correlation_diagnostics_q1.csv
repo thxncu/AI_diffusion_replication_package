@@ -1,0 +1,13 @@
+bti_measure,variable,n,pearson_r,p_value
+bti_capacity_index_z,institutional_capacity_z,114,0.8435601453782046,5.11656879677214e-32
+bti_capacity_index_z,ms_ai_diffusion_q1_2026_pct,114,0.5739629522120436,2.4591296057742277e-11
+bti_capacity_index_z,log_anthropic_per_capita_index,100,0.6708673728108815,2.232330319981331e-14
+bti_capacity_index_z,ai_capability_conversion_gap_q1_2026_pct,114,0.145328703895359,0.12288217168850259
+bti_capacity_index_z,imf_aipi_index_2023_z,114,0.7130855331242211,5.563843098193734e-19
+bti_capacity_index_z,access_assets_z,114,0.5182441736832322,3.5110839837927528e-09
+bti_governance_performance_z,institutional_capacity_z,114,0.8571092132843521,4.754376176450594e-34
+bti_governance_performance_z,ms_ai_diffusion_q1_2026_pct,114,0.627071968931527,8.377786295316231e-14
+bti_governance_performance_z,log_anthropic_per_capita_index,100,0.663696453833833,5.2525021286748015e-14
+bti_governance_performance_z,ai_capability_conversion_gap_q1_2026_pct,114,0.19912950093277285,0.03366929072017816
+bti_governance_performance_z,imf_aipi_index_2023_z,114,0.7197289718310581,1.844404657710002e-19
+bti_governance_performance_z,access_assets_z,114,0.5245595369834515,2.091774240345873e-09

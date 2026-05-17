@@ -1,0 +1,5 @@
+variant,features,n,ari_with_main_k3,cluster_counts,q1_broad_eta2,q1_gap_eta2,claude_eta2
+main_all_inputs,institutional_capacity_z; imf_aipi_index_2023_z; access_assets_z; reg_ethics_z; policy_intensity_z,138,1.0,"{""1"": 28, ""2"": 56, ""3"": 54}",0.6591044506895205,0.201960545261651,0.7591250261093506
+no_regulatory_ethics,institutional_capacity_z; imf_aipi_index_2023_z; access_assets_z; policy_intensity_z,138,0.9557580533713049,"{""1"": 29, ""2"": 54, ""3"": 55}",0.6444404243178443,0.17956386229751567,0.7486826934719116
+no_policy_visibility,institutional_capacity_z; imf_aipi_index_2023_z; access_assets_z; reg_ethics_z,138,0.9071902597801493,"{""1"": 29, ""2"": 58, ""3"": 51}",0.6451261296708373,0.184731151418355,0.7360298387460449
+core_capacity_access_only,institutional_capacity_z; imf_aipi_index_2023_z; access_assets_z,138,0.7116574712546099,"{""1"": 34, ""2"": 54, ""3"": 50}",0.6890728281236015,0.17722523155365663,0.7046454595903489

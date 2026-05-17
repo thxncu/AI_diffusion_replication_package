@@ -1,0 +1,21 @@
+{
+  "source_update": "Microsoft AI_Diffusion_Q12026_Update.csv",
+  "core_sample_n": 138,
+  "q1_matched_n": 138,
+  "anthropic_available_n": 124,
+  "bti_available_n": 114,
+  "mean_q1_broad_diffusion_pct": 19.65434782608696,
+  "median_q1_broad_diffusion_pct": 15.5,
+  "mean_q1_change_from_h2_pct_points": 1.7159420289855074,
+  "access_baseline_r2_q1": 0.5946025629620667,
+  "k2_counts": {
+    "1": 58,
+    "2": 80
+  },
+  "k3_counts": {
+    "1": 28,
+    "2": 56,
+    "3": 54
+  },
+  "k2_vs_k3_reading": "Input-space diagnostics still favor k=2 on silhouette and Davies-Bouldin, while k=3 preserves an outcome-relevant intermediate readiness-access profile and has strong Ward agreement and bootstrap stability. Q1 2026 broad diffusion strengthens outcome separation but does not change the core conclusion because cluster inputs exclude diffusion outcomes."
+}

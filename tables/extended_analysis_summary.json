@@ -1,0 +1,229 @@
+{
+  "alternative_access_baseline": [
+    {
+      "baseline": "basic_access",
+      "predictors": "log_gdp_per_capita_ppp_z; wdi_individuals_using_internet_pct_latest_z; log_population_z",
+      "n": 138,
+      "access_baseline_r2": 0.5946025629620667,
+      "k2_eta2_on_residual": 0.029777232329183327,
+      "k2_anova_p": 0.04298038192332419,
+      "k3_eta2_on_residual": 0.201960545261651,
+      "k3_anova_p": 2.4358162157739644e-07,
+      "pc1_overall_capacity_coef": 1.3600736686610342,
+      "pc1_overall_capacity_p": 0.11888425581811984,
+      "pc2_access_capacity_imbalance_coef": -3.0490714594618784,
+      "pc2_access_capacity_imbalance_p": 2.416833882530875e-07
+    },
+    {
+      "baseline": "minimal_economic_scale",
+      "predictors": "log_gdp_per_capita_ppp_z; log_population_z",
+      "n": 138,
+      "access_baseline_r2": 0.5849263754870806,
+      "k2_eta2_on_residual": 0.03250157377875523,
+      "k2_anova_p": 0.034350020992422944,
+      "k3_eta2_on_residual": 0.24335469705061594,
+      "k3_anova_p": 6.687025500978056e-09,
+      "pc1_overall_capacity_coef": 1.2557355324524142,
+      "pc1_overall_capacity_p": 0.14852090206520874,
+      "pc2_access_capacity_imbalance_coef": -3.5650947254998546,
+      "pc2_access_capacity_imbalance_p": 2.2076125886118873e-10
+    },
+    {
+      "baseline": "education_rd_access",
+      "predictors": "log_gdp_per_capita_ppp_z; wdi_individuals_using_internet_pct_latest_z; log_population_z; wdi_tertiary_enrollment_gross_pct_latest_z; wdi_rd_expenditure_pct_gdp_latest_z",
+      "n": 121,
+      "access_baseline_r2": 0.6566220360866382,
+      "k2_eta2_on_residual": 0.009024306328860515,
+      "k2_anova_p": 0.2999879534939434,
+      "k3_eta2_on_residual": 0.07852830857193766,
+      "k3_anova_p": 0.008024867474446053,
+      "pc1_overall_capacity_coef": 1.021639603407465,
+      "pc1_overall_capacity_p": 0.2800005435506483,
+      "pc2_access_capacity_imbalance_coef": -2.1567242803410114,
+      "pc2_access_capacity_imbalance_p": 0.0003092419833257782
+    },
+    {
+      "baseline": "aipi_human_innovation_access",
+      "predictors": "log_gdp_per_capita_ppp_z; wdi_individuals_using_internet_pct_latest_z; log_population_z; human_capital_z; innovation_integration_z",
+      "n": 138,
+      "access_baseline_r2": 0.678211911308861,
+      "k2_eta2_on_residual": 0.003683088853059391,
+      "k2_anova_p": 0.4795072351158127,
+      "k3_eta2_on_residual": 0.08173040739216916,
+      "k3_anova_p": 0.003165838312726705,
+      "pc1_overall_capacity_coef": 0.22533628744080045,
+      "pc1_overall_capacity_p": 0.8014594244014893,
+      "pc2_access_capacity_imbalance_coef": -1.0323813606700316,
+      "pc2_access_capacity_imbalance_p": 0.09026442530350173
+    },
+    {
+      "baseline": "readiness_enriched_access",
+      "predictors": "log_gdp_per_capita_ppp_z; wdi_individuals_using_internet_pct_latest_z; log_population_z; human_capital_z; innovation_integration_z; digital_infra_z",
+      "n": 138,
+      "access_baseline_r2": 0.6791791062059198,
+      "k2_eta2_on_residual": 0.002544032390346686,
+      "k2_anova_p": 0.5568668139265008,
+      "k3_eta2_on_residual": 0.08176957295471345,
+      "k3_anova_p": 0.00315673685605911,
+      "pc1_overall_capacity_coef": 0.2198349923785436,
+      "pc1_overall_capacity_p": 0.8068511120665884,
+      "pc2_access_capacity_imbalance_coef": -0.9525166599207482,
+      "pc2_access_capacity_imbalance_p": 0.11713634515612646
+    }
+  ],
+  "logit_terms": [
+    {
+      "model": "logit_broad_q1_channel",
+      "outcome": "logit_ai_diffusion_q1_2026_recalc",
+      "term": "institutional_capacity_z",
+      "coef": 0.3744623257460228,
+      "se_hc3": 0.11376604674385156,
+      "p_hc3": 0.0009965031008502593,
+      "ci_lower": 0.15148497146457343,
+      "ci_upper": 0.5974396800274722,
+      "n": 138,
+      "r2": 0.7465209232852801
+    },
+    {
+      "model": "logit_broad_q1_channel",
+      "outcome": "logit_ai_diffusion_q1_2026_recalc",
+      "term": "imf_aipi_index_2023_z",
+      "coef": -0.006835093523428641,
+      "se_hc3": 0.1318689703346634,
+      "p_hc3": 0.9586621885890865,
+      "ci_lower": -0.26529352605774975,
+      "ci_upper": 0.25162333901089246,
+      "n": 138,
+      "r2": 0.7465209232852801
+    },
+    {
+      "model": "logit_broad_q1_channel",
+      "outcome": "logit_ai_diffusion_q1_2026_recalc",
+      "term": "access_assets_z",
+      "coef": 0.2566263293023655,
+      "se_hc3": 0.06171396973287041,
+      "p_hc3": 3.2059910422925985e-05,
+      "ci_lower": 0.13566917128294453,
+      "ci_upper": 0.3775834873217865,
+      "n": 138,
+      "r2": 0.7465209232852801
+    },
+    {
+      "model": "logit_broad_q1_channel",
+      "outcome": "logit_ai_diffusion_q1_2026_recalc",
+      "term": "policy_intensity_z",
+      "coef": 0.0851465287325982,
+      "se_hc3": 0.052422109212753885,
+      "p_hc3": 0.10432279798212848,
+      "ci_lower": -0.01759891731802478,
+      "ci_upper": 0.18789197478322117,
+      "n": 138,
+      "r2": 0.7465209232852801
+    },
+    {
+      "model": "logit_broad_q1_channel",
+      "outcome": "logit_ai_diffusion_q1_2026_recalc",
+      "term": "log_population_z",
+      "coef": -0.03568109896630046,
+      "se_hc3": 0.03912467512254343,
+      "p_hc3": 0.3617768543680018,
+      "ci_lower": -0.11236405311331582,
+      "ci_upper": 0.0410018551807149,
+      "n": 138,
+      "r2": 0.7465209232852801
+    }
+  ],
+  "outlier_top5_by_cooks": [
+    {
+      "iso3": "ARE",
+      "cooks_d": 0.12240887755180306,
+      "leverage": 0.02228467310055718
+    },
+    {
+      "iso3": "SGP",
+      "cooks_d": 0.10132552805425205,
+      "leverage": 0.05150273415927792
+    },
+    {
+      "iso3": "QAT",
+      "cooks_d": 0.05349584085348089,
+      "leverage": 0.08573498848899412
+    },
+    {
+      "iso3": "LBN",
+      "cooks_d": 0.04787611906363168,
+      "leverage": 0.05401042000624113
+    },
+    {
+      "iso3": "RWA",
+      "cooks_d": 0.04034385258618825,
+      "leverage": 0.06814929439638788
+    }
+  ],
+  "gmm_best_by_covariance": [
+    {
+      "covariance_type": "full",
+      "k": 3,
+      "n": 138,
+      "aic": -97.86357336680595,
+      "bic": 83.62615511294075,
+      "converged": true,
+      "n_iter": 13,
+      "ari_with_kmeans_k3_if_k3": 0.3885018311318517,
+      "cluster_counts": "{\"1\": 40, \"2\": 22, \"3\": 76}",
+      "q1_broad_eta2": 0.5400367818393089,
+      "q1_gap_eta2": 0.0956720783254905,
+      "claude_eta2": 0.6317562610558147
+    },
+    {
+      "covariance_type": "diag",
+      "k": 6,
+      "n": 138,
+      "aic": 157.30304054328565,
+      "bic": 347.574530078504,
+      "converged": true,
+      "n_iter": 7,
+      "ari_with_kmeans_k3_if_k3": NaN,
+      "cluster_counts": "{\"1\": 19, \"2\": 21, \"3\": 23, \"4\": 21, \"5\": 2, \"6\": 52}",
+      "q1_broad_eta2": 0.6764557725772918,
+      "q1_gap_eta2": 0.1671354741128013,
+      "claude_eta2": 0.8099959286583313
+    },
+    {
+      "covariance_type": "tied",
+      "k": 4,
+      "n": 138,
+      "aic": 815.7316389482774,
+      "bic": 926.9672789842512,
+      "converged": true,
+      "n_iter": 12,
+      "ari_with_kmeans_k3_if_k3": NaN,
+      "cluster_counts": "{\"1\": 27, \"2\": 28, \"3\": 46, \"4\": 37}",
+      "q1_broad_eta2": 0.5773021133405319,
+      "q1_gap_eta2": 0.15044174175051,
+      "claude_eta2": 0.772733825004015
+    },
+    {
+      "covariance_type": "spherical",
+      "k": 6,
+      "n": 138,
+      "aic": 1094.9257481212098,
+      "bic": 1214.9431492126553,
+      "converged": true,
+      "n_iter": 15,
+      "ari_with_kmeans_k3_if_k3": NaN,
+      "cluster_counts": "{\"1\": 19, \"2\": 18, \"3\": 27, \"4\": 19, \"5\": 20, \"6\": 35}",
+      "q1_broad_eta2": 0.6690438441771076,
+      "q1_gap_eta2": 0.20580220808877045,
+      "claude_eta2": 0.806612024433712
+    }
+  ],
+  "wb_match": [
+    {
+      "core_n": 138,
+      "matched_region_n": 138,
+      "matched_income_group_n": 136,
+      "unmatched_iso3": ""
+    }
+  ]
+}

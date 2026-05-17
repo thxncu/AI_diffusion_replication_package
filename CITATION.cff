@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this replication package if you use these data or code."
+title: "Replication package for Conversion Profiles in the Global Diffusion of Generative AI"
+version: "1.0.0"
+date-released: "2026-05-17"
+authors:
+  - family-names: "Anonymous"
+    given-names: "Author"
+abstract: "Replication data and code for a country-level analysis of generative AI diffusion, governance readiness, access, Claude-visible platform use, and access-adjusted conversion diagnostics."
+license: "MIT"
